@@ -185,4 +185,13 @@ button.new-game {
     font-size: 16px;
     background-color: #8E8E8E;
   }
+
+  section.language-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+    width: 250px;
+    margin-bottom: 36px;
+  }
 }
